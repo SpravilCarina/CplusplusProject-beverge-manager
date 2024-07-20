@@ -1,0 +1,6 @@
+Espresso,Water:50,Coffee:10
+Long Espresso,Water:100,Coffee:20
+Cappuccino,Water:50,Milk:30,Coffee:15
+Latte Macchiato,Water:60,Milk:40,Coffee:15
+Apa,Water:100
+Ceai,Water:100
